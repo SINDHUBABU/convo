@@ -3,7 +3,7 @@ import AnalyticsDashboard from './AnalyticsDashboard';
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans">
+    <div className="h-screen w-screen bg-[#0b1120] text-slate-100 overflow-hidden font-sans">
       <AnalyticsDashboard />
     </div>
   );
